@@ -19,7 +19,7 @@
   ##
   
 - 🔭 Atualmente estou a procura
-- 🌱 Atualmente estou aprendendo ReactJS, NodeJS, HTML, CSS e Javascript, Typescript, no Desenvolvimento de Software da Cubos Academy
+- 🌱 Estou me aprimorando em ReactJS, NodeJS, HTML, CSS e Javascript, Typescript
 - 👯 Estou procurando colaborar em Desenvolvedor Full Stack, Front-end ou Back-end
 - 📫 Como chegar até mim:
   
